@@ -1,5 +1,5 @@
 {
-    "mongo_url": "",
+    "mongo_url": "mongodb+srv://snok:Q7bRSmeDYn1jC1Gh@cluster0.zfgpo.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "server": {
         "id": "",
         "invite": "",
